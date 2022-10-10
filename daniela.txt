@@ -1,7 +1,12 @@
 Hola Mundo!!
 
 
-Estoy es la primer versión con texto en el archivo.
+Estoy es la segunda versión con texto en el archivo.
 
+
+Y esto es para que veas como se muestra un cambio entre líneas.
 
 Pero queremos más texto porque vamos a hacer cambios.
+
+
+Estoy es cun cambio para que lo vea Daniela.
